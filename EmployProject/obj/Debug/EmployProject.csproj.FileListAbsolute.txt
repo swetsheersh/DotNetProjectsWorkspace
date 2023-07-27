@@ -1,0 +1,8 @@
+D:\dotnet\EmployProject\obj\Debug\EmployProject.csproj.AssemblyReference.cache
+D:\dotnet\EmployProject\obj\Debug\EmployProject.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\EmployProject\obj\Debug\EmployProject.csproj.CoreCompileInputs.cache
+D:\dotnet\EmployProject\bin\Debug\EmployProject.exe.config
+D:\dotnet\EmployProject\bin\Debug\EmployProject.exe
+D:\dotnet\EmployProject\bin\Debug\EmployProject.pdb
+D:\dotnet\EmployProject\obj\Debug\EmployProject.exe
+D:\dotnet\EmployProject\obj\Debug\EmployProject.pdb

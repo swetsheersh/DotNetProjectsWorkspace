@@ -1,0 +1,10 @@
+D:\dotnet\ConsolAppDllImpl\bin\Debug\ConsolAppDllImpl.exe.config
+D:\dotnet\ConsolAppDllImpl\bin\Debug\ConsolAppDllImpl.exe
+D:\dotnet\ConsolAppDllImpl\bin\Debug\ConsolAppDllImpl.pdb
+D:\dotnet\ConsolAppDllImpl\obj\Debug\ConsolAppDllImpl.csproj.AssemblyReference.cache
+D:\dotnet\ConsolAppDllImpl\obj\Debug\ConsolAppDllImpl.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\ConsolAppDllImpl\obj\Debug\ConsolAppDllImpl.csproj.CoreCompileInputs.cache
+D:\dotnet\ConsolAppDllImpl\obj\Debug\ConsolAppDllImpl.exe
+D:\dotnet\ConsolAppDllImpl\obj\Debug\ConsolAppDllImpl.pdb
+D:\dotnet\ConsolAppDllImpl\bin\Debug\DllConsole.dll
+D:\dotnet\ConsolAppDllImpl\obj\Debug\ConsolAppDllImpl.csproj.CopyComplete

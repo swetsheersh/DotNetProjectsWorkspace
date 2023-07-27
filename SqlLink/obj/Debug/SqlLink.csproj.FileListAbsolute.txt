@@ -1,0 +1,8 @@
+D:\dotnet\SqlLink\bin\Debug\SqlLink.exe.config
+D:\dotnet\SqlLink\bin\Debug\SqlLink.exe
+D:\dotnet\SqlLink\bin\Debug\SqlLink.pdb
+D:\dotnet\SqlLink\obj\Debug\SqlLink.csproj.AssemblyReference.cache
+D:\dotnet\SqlLink\obj\Debug\SqlLink.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\SqlLink\obj\Debug\SqlLink.csproj.CoreCompileInputs.cache
+D:\dotnet\SqlLink\obj\Debug\SqlLink.exe
+D:\dotnet\SqlLink\obj\Debug\SqlLink.pdb

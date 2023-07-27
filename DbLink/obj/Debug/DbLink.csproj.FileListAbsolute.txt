@@ -1,0 +1,13 @@
+D:\dotnet\DbLink\bin\Debug\DbLink.exe.config
+D:\dotnet\DbLink\bin\Debug\DbLink.exe
+D:\dotnet\DbLink\bin\Debug\DbLink.pdb
+D:\dotnet\DbLink\bin\Debug\EntityFramework.dll
+D:\dotnet\DbLink\bin\Debug\EntityFramework.SqlServer.dll
+D:\dotnet\DbLink\bin\Debug\EntityFramework.xml
+D:\dotnet\DbLink\bin\Debug\EntityFramework.SqlServer.xml
+D:\dotnet\DbLink\obj\Debug\DbLink.csproj.AssemblyReference.cache
+D:\dotnet\DbLink\obj\Debug\DbLink.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\DbLink\obj\Debug\DbLink.csproj.CoreCompileInputs.cache
+D:\dotnet\DbLink\obj\Debug\DbLink.csproj.CopyComplete
+D:\dotnet\DbLink\obj\Debug\DbLink.exe
+D:\dotnet\DbLink\obj\Debug\DbLink.pdb

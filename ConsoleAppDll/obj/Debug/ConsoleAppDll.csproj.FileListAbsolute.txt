@@ -1,0 +1,3 @@
+D:\dotnet\ConsoleAppDll\obj\Debug\ConsoleAppDll.csproj.AssemblyReference.cache
+D:\dotnet\ConsoleAppDll\obj\Debug\ConsoleAppDll.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\ConsoleAppDll\obj\Debug\ConsoleAppDll.csproj.CoreCompileInputs.cache

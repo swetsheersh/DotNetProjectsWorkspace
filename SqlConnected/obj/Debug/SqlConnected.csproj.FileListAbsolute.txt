@@ -1,0 +1,17 @@
+D:\dotnet\SqlConnected\bin\Debug\SqlConnected.exe.config
+D:\dotnet\SqlConnected\bin\Debug\SqlConnected.exe
+D:\dotnet\SqlConnected\bin\Debug\SqlConnected.pdb
+D:\dotnet\SqlConnected\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\dotnet\SqlConnected\bin\Debug\System.Security.AccessControl.dll
+D:\dotnet\SqlConnected\bin\Debug\System.Security.Permissions.dll
+D:\dotnet\SqlConnected\bin\Debug\System.Security.Principal.Windows.dll
+D:\dotnet\SqlConnected\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\dotnet\SqlConnected\bin\Debug\System.Security.AccessControl.xml
+D:\dotnet\SqlConnected\bin\Debug\System.Security.Permissions.xml
+D:\dotnet\SqlConnected\bin\Debug\System.Security.Principal.Windows.xml
+D:\dotnet\SqlConnected\obj\Debug\SqlConnected.csproj.AssemblyReference.cache
+D:\dotnet\SqlConnected\obj\Debug\SqlConnected.csproj.SuggestedBindingRedirects.cache
+D:\dotnet\SqlConnected\obj\Debug\SqlConnected.csproj.CoreCompileInputs.cache
+D:\dotnet\SqlConnected\obj\Debug\SqlConnected.csproj.CopyComplete
+D:\dotnet\SqlConnected\obj\Debug\SqlConnected.exe
+D:\dotnet\SqlConnected\obj\Debug\SqlConnected.pdb

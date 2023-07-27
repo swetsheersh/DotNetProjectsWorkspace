@@ -1,0 +1,15 @@
+D:\dotnet\DllConsole\obj\Debug\net7.0\DllConsole.csproj.AssemblyReference.cache
+D:\dotnet\DllConsole\obj\Debug\net7.0\DllConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\dotnet\DllConsole\obj\Debug\net7.0\DllConsole.AssemblyInfoInputs.cache
+D:\dotnet\DllConsole\obj\Debug\net7.0\DllConsole.AssemblyInfo.cs
+D:\dotnet\DllConsole\obj\Debug\net7.0\DllConsole.csproj.CoreCompileInputs.cache
+D:\dotnet\DllConsole\bin\Debug\net7.0\DllConsole.exe
+D:\dotnet\DllConsole\bin\Debug\net7.0\DllConsole.deps.json
+D:\dotnet\DllConsole\bin\Debug\net7.0\DllConsole.runtimeconfig.json
+D:\dotnet\DllConsole\bin\Debug\net7.0\DllConsole.dll
+D:\dotnet\DllConsole\bin\Debug\net7.0\DllConsole.pdb
+D:\dotnet\DllConsole\obj\Debug\net7.0\DllConsole.dll
+D:\dotnet\DllConsole\obj\Debug\net7.0\refint\DllConsole.dll
+D:\dotnet\DllConsole\obj\Debug\net7.0\DllConsole.pdb
+D:\dotnet\DllConsole\obj\Debug\net7.0\DllConsole.genruntimeconfig.cache
+D:\dotnet\DllConsole\obj\Debug\net7.0\ref\DllConsole.dll
